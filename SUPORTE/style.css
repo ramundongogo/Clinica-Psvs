@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&family=Roboto:ital,wght@1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background: #5B8354;
+    width: 1366px;
+    height: 663px;
+}
+
+.nav {
+    display: flex;
+    background: #86c238;
+    width: 1366px;
+    height: 120px;
+}
+
+.nav h3{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    display: flex;
+    margin-left: 30px;
+}
+
+.nav img{
+    max-width: 70px;
+    max-height: 70px;
+    width: auto;
+    height: auto;
+    margin-left: 30px;
+}
+
+.imgcontato{
+    display:flex ;
+    align-items: center;
+}
+.casinha{
+    left: 1050px;
+}
+.casinha:hover{
+    opacity: 0.7;
+}
+.imgcontato a img{
+    position: relative;top:0
+}
+
+.menu {
+    display: flex;
+    position: relative;
+    top: 20%;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu h4{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+}
+
+.menu img{
+    max-width: 200px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
+
+.toin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+.whats{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color :white;
+    font-family:roboto;
+    font-size: 20px;
+}
+.whats a img:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+.insta{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color :white;
+    font-family:roboto;
+    font-size: 20px;
+}
+.insta a img:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+
+.face{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color :white;
+    font-family:roboto;
+    font-size: 20px;
+}
+.face a img:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+
+
+.footerr{
+    background: #5B8354;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    color :white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.f1{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.f1 a img:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
