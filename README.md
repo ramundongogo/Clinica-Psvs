@@ -19,7 +19,7 @@ Aqui funcionando a demonstração em tempo real :  https://iharsh234.github.io/W
 
 ### Tela Inicial
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![](https://ramundongogo.github.io/clinica/telainicio.png)
 
 
 ## [Usage](https://iharsh234.github.io/WebApp/) 
