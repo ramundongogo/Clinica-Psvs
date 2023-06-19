@@ -4,7 +4,9 @@
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+  Começamos como intuito de oferecer cuidados de saúde com qualidade para a comunidade escolar. Nossa empresa estabeleceu uma experiência sólida como um provedor confiável e dedicado aos cuidados à saúde dos alunos.
+
+aaa.
 </td>
 </tr>
 </table>
