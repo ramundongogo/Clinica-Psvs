@@ -37,7 +37,7 @@ Para concertar um bug ou aprimorar um modulo existente, Siga esse passo a passo:
 - Push para o branch (`git push origin improve-feature`)
 - Crie um Pull Request 
 
-### Bug / Feature Request
+### Bug / Solicitação Função
 
 Se você encontrar um bug (o site não conseguiu lidar com a consulta e / ou deu resultados indesejados), Por favor, abra uma reclamação [here](https://github.com/iharsh234/WebApp/issues/new) incluindo sua consulta de pesquisa e o resultado esperado.
 
@@ -46,9 +46,9 @@ Se você quiser solicitar uma nova função, sinta-se à vontade para fazê-lo a
 
 ## Construido com: 
 
-- [CSS](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [HTML](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [JAVASCRIPT](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics) - CSS é o código que você usa para dar estilo à sua página Web.
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics) - HTML é o código que você usa para estruturar uma página web e seu conteúdo.
+- [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction) - JavaScript é uma linguagem de script orientada a objetos e plataforma cruzada usada para tornar as páginas da Web interativas.
 
 
 ## To-do
