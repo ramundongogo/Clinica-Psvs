@@ -21,10 +21,6 @@ Aqui funcionando a demonstração em tempo real :  https://iharsh234.github.io/W
 
 ![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
 
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
-
-
 
 ## [Usage](https://iharsh234.github.io/WebApp/) 
 
