@@ -6,7 +6,6 @@
 <td>
   Começamos como intuito de oferecer cuidados de saúde com qualidade para a comunidade escolar. Nossa empresa estabeleceu uma experiência sólida como um provedor confiável e dedicado aos cuidados à saúde dos alunos.
 
-aaa.
 </td>
 </tr>
 </table>
