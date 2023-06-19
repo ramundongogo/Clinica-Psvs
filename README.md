@@ -58,9 +58,9 @@ Se você quiser solicitar uma nova função, sinta-se à vontade para fazê-lo a
 
 ## Team
 
-[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+[![Levi](https://ramundongogo.github.io/clinica/icon.png)](https://github.com/EMANUELLEVI10)  | [![Felipe](https://ramundongogo.github.io/clinica/icon.png)](https://github.com/felipefg4)  | [![Raimundo](https://ramundongogo.github.io/clinica/icon.png)](https://github.com/ramundongogo)
 ---|---
-[Levi](https://github.com/EMANUELLEVI10) |[Felipe](https://github.com/felipefg4)
+[Levi](https://github.com/EMANUELLEVI10) |[Felipe](https://github.com/felipefg4) |[Raimundo](https://github.com/ramundongogo)
 
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
