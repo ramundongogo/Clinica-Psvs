@@ -1,5 +1,5 @@
 # 
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+# ![Clinica](https://ramundongogo.github.io/clinica/logo_clinica.png)
 # Clinica-Psvs
 <table>
 <tr>
