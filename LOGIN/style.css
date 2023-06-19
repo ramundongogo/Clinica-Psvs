@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+@media screen and (max-device-width:700px){.menu {width: 400px;}
+}
+* { 
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-size: clamp(40px,8ww,105px);
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 768px;
+    width: 1366px;
+    background: #518311;
+    flex-wrap: wrap;
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.logo:hover{
+    transform: scale(1.4);
+    transition: all 0.5s;
+}
+
+.text{
+    width: 700px;
+    height: 60px;
+    font-size: 25px;
+}
+
+.text-inp{
+    font-family:sans-serif ;
+    color: whitesmoke;
+    line-height: 60px;
+    font-size: 20px;
+}
+.text-inp h2{
+    text-decoration: none;
+}
+
+.btn-login{
+    background: #144415;
+    width: 250px;
+    height: 90px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn-login:hover{
+    background-color: black;
+    transition: 0.5s;
+    opacity: 0.7;
+}
+
+.forgetS{
+    color: whitesmoke;
+    line-height: 50px;
+    display: flex;
+    position: relative;
+    right: 230px;
+}
+
+.create{
+    color: whitesmoke;
+    line-height: 40px;
+    display: flex;
+    position: relative;
+    left: 550px;
+}
+
+.eye{
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: relative;
+    left: 500px;
+}
