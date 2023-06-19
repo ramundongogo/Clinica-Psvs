@@ -58,8 +58,7 @@ Se você quiser solicitar uma nova função, sinta-se à vontade para fazê-lo a
 
 ## Team
 
----|---
-[Levi](https://github.com/EMANUELLEVI10) |[Felipe](https://github.com/felipefg4) |[Raimundo](https://github.com/ramundongogo)
+[Levi](https://github.com/EMANUELLEVI10) | [Felipe](https://github.com/felipefg4) |  [Raimundo](https://github.com/ramundongogo)
 
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
