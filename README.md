@@ -39,9 +39,9 @@ Para concertar um bug ou aprimorar um modulo existente, Siga esse passo a passo:
 
 ### Bug / Solicitação Função
 
-Se você encontrar um bug (o site não conseguiu lidar com a consulta e / ou deu resultados indesejados), Por favor, abra uma reclamação [here](https://github.com/iharsh234/WebApp/issues/new) incluindo sua consulta de pesquisa e o resultado esperado.
+Se você encontrar um bug (o site não conseguiu lidar com a consulta e / ou deu resultados indesejados), Por favor, abra uma reclamação [aqui](https://github.com/ramundongogo/Clinica-Psvs/Reclamação/new) incluindo sua consulta de pesquisa e o resultado esperado.
 
-Se você quiser solicitar uma nova função, sinta-se à vontade para fazê-lo abrindo uma reclamação [here](https://github.com/iharsh234/WebApp/issues/new). Inclua exemplos de consultas e seus resultados correspondentes.
+Se você quiser solicitar uma nova função, sinta-se à vontade para fazê-lo abrindo uma reclamação [aqui](https://github.com/ramundongogo/Clinica-Psvs/Reclamação/new). Inclua exemplos de consultas e seus resultados correspondentes.
 
 
 ## Construido com: 
@@ -60,9 +60,9 @@ Se você quiser solicitar uma nova função, sinta-se à vontade para fazê-lo a
 
 [![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
 ---|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
+[Levi](https://github.com/EMANUELLEVI10) |[Felipe](https://github.com/felipefg4)
 
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
+MIT © [Ramundon](https://github.com/ramundongogo)
 
