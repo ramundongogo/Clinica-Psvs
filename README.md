@@ -1,5 +1,5 @@
 # 
-# ![Clinica](https://ramundongogo.github.io/clinica/logo_clinica.png)
+# ![Clinica](https://ramundongogo.github.io/clinica/logoclinica.png)
 # Clinica-Psvs
 <table>
 <tr>
