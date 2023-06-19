@@ -51,7 +51,7 @@ Se você quiser solicitar uma nova função, sinta-se à vontade para fazê-lo a
 - [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction) - JavaScript é uma linguagem de script orientada a objetos e plataforma cruzada usada para tornar as páginas da Web interativas.
 
 
-## To-do
+## A Fazer
 - Adicionar Responsividade para dispositivos móveis.
 - Adicionar tela de criação de conta. (Forks são bem vindos).
 - Another WebApp, capable of comparing at least 10 stocks.
