@@ -58,7 +58,6 @@ Se você quiser solicitar uma nova função, sinta-se à vontade para fazê-lo a
 
 ## Team
 
-[![Levi](https://ramundongogo.github.io/clinica/icon.ico)](https://github.com/EMANUELLEVI10)  | [![Felipe](https://ramundongogo.github.io/clinica/icon.ico)](https://github.com/felipefg4)  | [![Raimundo](https://ramundongogo.github.io/clinica/icon.ico)](https://github.com/ramundongogo)
 ---|---
 [Levi](https://github.com/EMANUELLEVI10) |[Felipe](https://github.com/felipefg4) |[Raimundo](https://github.com/ramundongogo)
 
