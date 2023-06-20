@@ -54,7 +54,7 @@ Se você quiser solicitar uma nova função, sinta-se à vontade para fazê-lo a
 ## A Fazer
 - Adicionar Responsividade para dispositivos móveis.
 - Adicionar tela de criação de conta. (Forks são bem vindos).
-- Another WebApp, capable of comparing at least 10 stocks.
+- Aprimorar a interatividade dos objetos.
 
 ## Team
 
