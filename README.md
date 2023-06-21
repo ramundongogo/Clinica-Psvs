@@ -39,9 +39,9 @@ Para concertar um bug ou aprimorar um modulo existente, Siga esse passo a passo:
 
 ### Bug / Solicitação Função
 
-Se você encontrar um bug (o site não conseguiu lidar com a consulta e / ou deu resultados indesejados), Por favor, abra uma reclamação [aqui](https://github.com/ramundongogo/Clinica-Psvs/Reclamação/new) incluindo sua consulta de pesquisa e o resultado esperado.
+Se você encontrar um bug (o site não conseguiu lidar com a consulta e / ou deu resultados indesejados), Por favor, abra uma reclamação [aqui](https://github.com/ramundongogo/Clinica-Psvs/Reclamacao/new) incluindo sua consulta de pesquisa e o resultado esperado.
 
-Se você quiser solicitar uma nova função, sinta-se à vontade para fazê-lo abrindo uma reclamação [aqui](https://github.com/ramundongogo/Clinica-Psvs/Reclamação/new). Inclua exemplos de consultas e seus resultados correspondentes.
+Se você quiser solicitar uma nova função, sinta-se à vontade para fazê-lo abrindo uma reclamação [aqui](https://github.com/ramundongogo/Clinica-Psvs/Reclamacao/new). Inclua exemplos de consultas e seus resultados correspondentes.
 
 
 ## Construido com: 
